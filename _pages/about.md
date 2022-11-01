@@ -47,10 +47,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-
-Focusing on the dependability of complex software systems, my research interests include software analysis, testing, automated program repair and vulnerablity detection. I obtained my Ph.D. degree in Computer Science and Technology from Nanjing University in 2021 (supervisor Prof. Xuandong Li, Tian Zhang and Minxue Pan). Before that, I obtained my B.Sc. degree, also from Nanjing University. Between 2017 and 2018, I studied in the Department of Computer Sciences at The Hong Kong Polytechnic University (PolyU) (supervisor Prof. Yu Pei).
-
-
-to be updated 
-============
