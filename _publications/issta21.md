@@ -1,7 +1,7 @@
 ---
 title: "GUIDER: GUI Structure and Vision Co-guided Test Script Repair for Android Apps"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/issta21
 excerpt: 'This paper is about automated test scripts repair.'
 date: 2021-06-01
 venue: 'ISSTA'
